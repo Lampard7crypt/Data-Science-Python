@@ -24,4 +24,4 @@ eln.fit(X_train, y_train)
 print(f"\nRidge R2: {ridge.score(X_test, y_test)}")
 print(f"Lasso R2: {lasso.score(X_test, y_test)}")
 print(f"eln R2: {eln.score(X_test, y_test)}\n")
-
+# Ridge, Lasso and ElasticNet(Which combines both in one). Lasso also called selector. 
