@@ -1,2 +1,6 @@
 __pycache__
 .ipynb_checkpoints
+*.joblib
+*.pkl
+temp.py
+athlete_events.csv
